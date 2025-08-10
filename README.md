@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Vaishnav, Master's Computer Science Grad at Dal.
+- 🚢 I've recently started to work with using Deep Reinforcement Learning Techniques for Maritime Navigation Problems! 
 - 📫 How to reach me :
   
 Email: vaishnavvaidheeswaran@gmail.com
